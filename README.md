@@ -1,3 +1,3 @@
 # java-learning
-Primeiro teste - Curso básicoo
+Primeiro teste - Curso básico
 
